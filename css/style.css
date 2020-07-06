@@ -129,8 +129,7 @@ body {
 	color: #FFFFFF;
 	text-decoration: none;
 }
-/*Псевдоэлемент,который мы создали в css, а в html его нет*/
-/*Мы написали before,т.к.он будет стоять до Play*/
+/*Псевдоэлемент*/
 .play:before{
 	/*Ничего не содержит*/
 	content:'';
